@@ -1,3 +1,9 @@
+A - 79,
+B- 60 - 79, 
+C -  59 - 49, 
+D - 40 - 49, 
+E - less - 40 
+
 const gradeGenerator = function (num) {
     if (num > 79) {
       return `You have an A`;
