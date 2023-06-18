@@ -11,4 +11,4 @@ const gradeGenerator = function (num) {
       return `You have an E`;
     }
   };
-# Code-challenges
+
