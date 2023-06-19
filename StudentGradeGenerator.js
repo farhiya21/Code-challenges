@@ -10,9 +10,9 @@ const gradeGenerator = function (num) {
     } else if (num >= 60 && num <= 79) {
       return `You got a B`;
     } else if (num >= 49 && num <= 59) {
-      return `You got a C-`;
+      return `You got a C`;
     } else if (num >= 40 && num < 49) {
-      return `You got a D-`;
+      return `You got a D`;
     } else if (num < 40) {
       return `You got an E`;
     }
