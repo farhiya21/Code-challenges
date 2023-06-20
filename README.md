@@ -6,3 +6,5 @@
 
 ### CODE CHALLENGE 3- Net Salary Calculator This chalenge calculates a persons net salary based on the inputs of basic salary and benefits. The program calculates the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary.
 
+## Author 
+### Farhiya Bashir 
